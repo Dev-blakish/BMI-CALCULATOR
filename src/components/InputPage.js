@@ -18,7 +18,7 @@ const InputPage = ({ onSubmit }) => {
 
     return (
         <div className="container mt-5">
-            <h2 className="text-center mb-4" style={{ color:'whitec', }}>BMI Calculator</h2>
+            <h2 className="text-center mb-4" style={{ color:'white', }}>BMI CALCULATOR</h2>
             <form onSubmit={handleSubmit} className="p-4 shadow rounded bg-light">
                 <div className="form-group">
                     <label htmlFor="name">Name</label>
